@@ -56,6 +56,7 @@ import founder4 from "./founder4.jpg";
 import founder5 from "./founder5.jpg";
 import founder6 from "./founder6.jpg";
 import founder7 from "./founder7.jpg";
+import newuser from "./newuser.jpg";
 import loader from "./loadergif.gif";
 import errorgif from "./error.gif";
 import transfer from "./transfer.gif";
@@ -74,6 +75,7 @@ export default {
   provider2,
   provider3,
   provider4,
+  newuser,
   upload,
   NFTVideo,
   earn,
