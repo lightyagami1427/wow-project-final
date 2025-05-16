@@ -44,32 +44,32 @@ const AuthorNFTCardBox = ({
 
   const followerArray = [
     {
-      background: images.creatorbackground1,
+      background: images.founder1,
       user: images.user1,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
-      background: images.creatorbackground2,
+      background: images.founder2,
       user: images.user2,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
-      background: images.creatorbackground3,
+      background: images.founder3,
       user: images.user3,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
-      background: images.creatorbackground4,
+      background: images.founder4,
       user: images.user4,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
-      background: images.creatorbackground5,
+      background: images.founder4,
       user: images.user5,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
-      background: images.creatorbackground6,
+      background: images.founder5,
       user: images.user6,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
@@ -78,27 +78,27 @@ const AuthorNFTCardBox = ({
   const followingArray = [
     {
       background: images.creatorbackground3,
-      user: images.user3,
+      user: images.founder6,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
       background: images.creatorbackground4,
-      user: images.user4,
+      user: images.founder1,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
       background: images.creatorbackground5,
-      user: images.user5,
+      user: images.founder2,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
       background: images.creatorbackground6,
-      user: images.user6,
+      user: images.founder1,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
     {
       background: images.creatorbackground1,
-      user: images.user1,
+      user: images.founder3,
       seller: "d84ff74hf99999f9974hf774f99f",
     },
   ];
