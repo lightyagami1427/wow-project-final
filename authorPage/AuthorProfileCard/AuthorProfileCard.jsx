@@ -64,7 +64,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
 
         <div className={Style.AuthorProfileCard_box_info}>
           <h2>
-            Akhil Nishtala{""}{" "}
+            CSE Data Analytics{""}{" "}
             <span>
               <MdVerified />
             </span>{" "}
@@ -79,8 +79,9 @@ const AuthorProfileCard = ({ currentAccount }) => {
           </div>
 
           <p>
-            Punk #4786 / An OG Cryptopunk Collector, hoarder of NFTs.
-            Contributing to @ether_cards, an NFT Monetization Platform.
+            Group members: Akhil, Supreethi, Tarun, Harshini, Harini,
+            Kulasekhar, Raju, Shreeyash
+            Group Guide: M Aswini Kumar
           </p>
 
           <div className={Style.AuthorProfileCard_box_info_social}>
