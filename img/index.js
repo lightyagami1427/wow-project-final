@@ -72,6 +72,7 @@ export default {
   founder5,
   founder6,
   founder7,
+  founder8,
   provider1,
   provider2,
   provider3,
