@@ -56,6 +56,7 @@ import founder4 from "./founder4.jpg";
 import founder5 from "./founder5.jpg";
 import founder6 from "./founder6.jpg";
 import founder7 from "./founder7.jpg";
+import founder8 from "./founder8.jpg";
 import newuser from "./newuser.jpg";
 import loader from "./loadergif.gif";
 import errorgif from "./error.gif";
