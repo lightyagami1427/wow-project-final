@@ -46,7 +46,7 @@ const aboutus = () => {
     {
       name: "Shreeyash",
       position: "211801260006",
-      images: images.founder4,
+      images: images.founder8,
     },
   ];
 
